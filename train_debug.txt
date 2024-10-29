@@ -1,0 +1,113 @@
+Parent path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/
+Classes present :  ['bottle', 'cable', 'capsule', 'carpet', 'grid', 'hazelnut', 'leather', 'metal_nut', 'pill', 'screw', 'tile', 'toothbrush', 'transistor', 'wood', 'zipper']
+LogHandlers setup!
+Block Initial Type: W, drop_path_rate:0.000000
+Block Initial Type: SW, drop_path_rate:0.000000
+Block Initial Type: W, drop_path_rate:0.000000
+Block Initial Type: SW, drop_path_rate:0.000000
+Block Initial Type: W, drop_path_rate:0.000000
+Block Initial Type: SW, drop_path_rate:0.000000
+Block Initial Type: W, drop_path_rate:0.000000
+Block Initial Type: SW, drop_path_rate:0.000000
+Block Initial Type: W, drop_path_rate:0.000000
+Block Initial Type: SW, drop_path_rate:0.000000
+Block Initial Type: W, drop_path_rate:0.000000
+Block Initial Type: SW, drop_path_rate:0.000000
+Block Initial Type: W, drop_path_rate:0.000000
+Block Initial Type: SW, drop_path_rate:0.000000
+Block Initial Type: W, drop_path_rate:0.000000
+Block Initial Type: SW, drop_path_rate:0.000000
+Block Initial Type: W, drop_path_rate:0.000000
+Block Initial Type: SW, drop_path_rate:0.000000
+Block Initial Type: W, drop_path_rate:0.000000
+Block Initial Type: SW, drop_path_rate:0.000000
+Block Initial Type: W, drop_path_rate:0.000000
+Block Initial Type: SW, drop_path_rate:0.000000
+Block Initial Type: W, drop_path_rate:0.000000
+Block Initial Type: SW, drop_path_rate:0.000000
+Block Initial Type: W, drop_path_rate:0.000000
+Block Initial Type: SW, drop_path_rate:0.000000
+Block Initial Type: W, drop_path_rate:0.000000
+Block Initial Type: SW, drop_path_rate:0.000000
+Loaded model :  model_zoo/bottle_50ep.pth
+=============== ***** Epoch : , 0 ***** ===============
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/broken_large/001.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/broken_large/001.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/broken_large/002.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/broken_large/002.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/broken_large/003.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/broken_large/003.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/broken_large/004.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/broken_large/004.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/broken_large/006.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/broken_large/006.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/broken_large/007.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/broken_large/007.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/broken_large/008.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/broken_large/008.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/broken_large/009.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/broken_large/009.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/broken_large/012.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/broken_large/012.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/broken_large/013.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/broken_large/013.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/broken_large/015.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/broken_large/015.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/broken_large/016.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/broken_large/016.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/broken_large/017.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/broken_large/017.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/broken_large/018.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/broken_large/018.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/broken_small/000.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/broken_small/000.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/broken_small/002.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/broken_small/002.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/broken_small/003.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/broken_small/003.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/broken_small/004.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/broken_small/004.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/broken_small/006.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/broken_small/006.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/broken_small/007.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/broken_small/007.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/broken_small/008.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/broken_small/008.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/broken_small/011.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/broken_small/011.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/broken_small/012.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/broken_small/012.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/broken_small/013.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/broken_small/013.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/broken_small/014.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/broken_small/014.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/broken_small/016.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/broken_small/016.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/broken_small/017.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/broken_small/017.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/broken_small/019.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/broken_small/019.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/broken_small/020.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/broken_small/020.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/broken_small/021.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/broken_small/021.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/contamination/000.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/contamination/000.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/contamination/001.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/contamination/001.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/contamination/003.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/contamination/003.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/contamination/004.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/contamination/004.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/contamination/005.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/contamination/005.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/contamination/007.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/contamination/007.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/contamination/009.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/contamination/009.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/contamination/011.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/contamination/011.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/contamination/012.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/contamination/012.png
+image :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/Degraded_image/contamination/013.png
+GT imae path :  /home/asl/Muni/EE5179/project/Denoising_Dataset_train_val/bottle/Train/GT_clean_image/contamination/013.png
