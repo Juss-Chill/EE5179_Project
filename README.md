@@ -43,6 +43,14 @@ cd EE5179_Project-main
 
 - Download the pre-trained [model](https://drive.google.com/drive/folders/1rRjmaTms2f3sO5PGNvmp8mLZahCiXK_D?usp=sharing) and place it in `./pretrained_models/`
 
+- Evaluate Restormer (input_dir for the test images directory should be in same format as train and val images directory in Denoising_Dataset_train_val)
+```
+python eval_mvtecad.py --input_dir <your_input_images_dir> --result_dir results --task Real_Denoising --tile 256 --tile_overlap 64
+```
+
+- Results along with object wise PSNR and SSIM will be updated in results directory.
+
+
 ## Inference
 - 'app.py' is for inference purpose.
 - you can upload a denoise image it will give you clear image.
@@ -51,10 +59,3 @@ cd EE5179_Project-main
   ```
   streamlit run app.py
   ```
-
-- Evaluate Restormer (input_dir for the test images directory should be in same format as train and val images directory in Denoising_Dataset_train_val)
-```
-python eval_mvtecad.py --input_dir <your_input_images_dir> --result_dir results --task Real_Denoising --tile 256 --tile_overlap 64
-```
-
-- Results along with object wise PSNR and SSIM will be updated in results directory.
