@@ -49,13 +49,3 @@ python eval_mvtecad.py --input_dir <your_input_images_dir> --result_dir results 
 ```
 
 - Results along with object wise PSNR and SSIM will be updated in results directory.
-
-
-## Inference
-- 'app.py' is for inference purpose.
-- you can upload a denoise image it will give you clear image.
-- It is written in streamlit frame work of python.
-- To run
-  ```
-  streamlit run app.py
-  ```
